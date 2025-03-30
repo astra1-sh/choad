@@ -1,6 +1,6 @@
 [package]
 name = "choad"
-version = "0.0.1"
+version = "1.0.0"
 edition = "2024"
 authors = ["Astra1 <203369683+astra1-sh@users.noreply.github.com>"]
 description = "Comically Hyper-Optimizing All Docs. Written in Rust, for developers who know milliseconds aren't free."
