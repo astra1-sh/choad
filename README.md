@@ -1,5 +1,7 @@
 # choad
 
+![choad build and test status](https://github.com/astra1-sh/choad/actions/workflows/.github/workflows/build_and_test.yml/badge.svg?branch=main)
+
 Comically Hyper-Optimizing All Docs. Written in Rust, for developers who know milliseconds aren't free.
 
 ![choad logo](./logo.jpg)
