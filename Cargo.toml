@@ -7,7 +7,7 @@ description = "Comically Hyper-Optimizing All Docs. Written in Rust, for develop
 
 
 [dependencies]
-clap = { version = "4.5.36" , features = ["derive"] }
+clap = { version = "4.5.38" , features = ["derive"] }
 notify = "8.0.0"
 regex = "1.11.1"
 
