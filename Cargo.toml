@@ -12,7 +12,7 @@ notify = "8.0.0"
 regex = "1.11.1"
 
 [dev-dependencies]
-tempfile = "3.25"
+tempfile = "3.27"
 assert_fs = "1.1"
 predicates = "3.1"
 
